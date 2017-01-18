@@ -1,3 +1,14 @@
-.facebook:hover, .facebook {
-  color: #FFF !important;
+/* ********************* form panel ********************* */
+form td {
+	border: none !important;
 }
+
+/* ********************* butto edit and delete ********************* */
+.fa-pencil-square-o:hover{
+	color: orange !important;
+}
+
+.fa-trash-o:hover{
+	color: red !important;
+}
+
